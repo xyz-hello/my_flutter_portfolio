@@ -47,3 +47,4 @@ app.*.map.json
 # Make sure that `lib/` and `assets/` are tracked
 !/lib/
 !/assets/
+!*.png
