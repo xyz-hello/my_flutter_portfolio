@@ -1,0 +1,12 @@
+# Ignore Android native code
+android/** linguist-vendored
+
+# Ignore iOS native code
+ios/** linguist-vendored
+
+# Ignore build outputs
+build/** linguist-vendored
+
+# Optional: ignore macOS and web folders if you're not actively writing in them
+macos/** linguist-vendored
+web/** linguist-vendored
